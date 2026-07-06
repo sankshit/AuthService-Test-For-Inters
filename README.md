@@ -1,5 +1,7 @@
 # Full-Stack Take-Home: Password Reset for AuthService
 
+# CANDIDATE BRIEF
+
 **Time:** 90 minutes. **AI use:** Required. Use any AI assistant you like.
 
 ## Context
