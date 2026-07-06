@@ -1,0 +1,15 @@
+{
+  "name": "authservice",
+  "version": "1.0.0",
+  "description": "Small auth service for signup/login",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
